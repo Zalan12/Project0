@@ -32,4 +32,33 @@ margin-right: 1350px;
 padding: 20px;
 padding-bottom: 40px;
 border-radius: 20px;
-margin-bottom: -50px;}
+margin-bottom: -50px
+;
+width: 130px;}
+ul{background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 40px;
+width: 50%;
+float: right;
+list-style:url(./TLoZ_Series_Triforce_Artwork_20x17.png);}
+#le{
+    background-color: white;
+    padding: 20px;
+    padding-bottom: 40px;
+border-radius: 20px;
+margin-bottom: -50px
+;
+margin-left: 712px;
+margin-right: 600px;
+font-size: larger;
+font-weight: bold;
+width: 150px;
+}
+#handy{width: 650px;
+border-radius: 20px;}
+.kep{width: 500px;}
+.hetvenotig{display: flex;
+}
+.list{margin-left: -500px;}
+li{padding-bottom: 5px;}
