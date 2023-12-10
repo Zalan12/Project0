@@ -5,21 +5,27 @@ padding-top:20px ;
 padding-left: 10px;
 padding-right: 10px;}
 header{display: flex;
-flex-direction: row;
-justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
 padding-bottom: 20px;
 padding-top: 20px;
 background-color: white;
 border-radius: 20px;
 }
+.cime{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+
+}
 h1{font-size: xx-large;}
-#kezd{width: 70%;
+#kezd{width: 70% auto;
     margin-left: 30px;
     background-color: white;
     border-radius: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
-    height: 120px;
+    height: auto;
 padding-left: 20px;}
 #card{width: 23%;
 margin-left: 20px;
@@ -27,7 +33,8 @@ margin-top: 20px;
 background-color: white;
 }
 .kezdetek{display: flex;
-        flex-direction: row;}
+        flex-direction: row;
+    width: auto;}
 h2{background-color: white;
 margin-right: 1350px;
 padding: 20px;
